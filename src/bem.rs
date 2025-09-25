@@ -1,8 +1,25 @@
+// test function for importing
 pub fn test(){
     println!("gamer")
 }
 
-pub fn test2(){
+// Functions for the BEM resonance scan
+pub fn kernel(){
+    
 
-    test()
+}
+
+pub fn construct_matrix() {
+    
+
+}
+
+pub fn min_sin_value() {
+
+
+}
+
+pub fn compute_spectrum() {
+
+
 }

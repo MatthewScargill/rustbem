@@ -1,7 +1,8 @@
 mod bem;
+mod boundarydata;
 
 fn main() {
-    bem::test2()
+    bem::test()
 }
 
 
