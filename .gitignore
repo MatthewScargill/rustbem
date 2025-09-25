@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Other common ignores
+*.log
