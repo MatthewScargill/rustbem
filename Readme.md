@@ -1,0 +1,1 @@
+A simple but fast (ideally), multithreaded (we'll see) spectrum solver for 2D Helmholtz quantum billiard problems. Implements a Boundary Element Method (BEM) to construct boundary data, assemble boundary integral operators, and scan wavenumbers to approximate resonant modes. Includes simple spectrum and billiard visualisations. 
