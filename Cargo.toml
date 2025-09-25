@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+num-complex = "0.4"
+rayon = "1.10"
+scilib = "1.0.0"
