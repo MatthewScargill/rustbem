@@ -6,3 +6,6 @@ I first wrote this in Julia for my Master's thesis. It was very slow but it work
 
 speed test was not encouraging in the slightest, this is what you get for wanting to use unoptimised math packages. on hold for now, see you when you get a fast hankel function crate rust. sweet dreams xx
 
+found this: https://github.com/carocs/qbessel-rs
+
+might be time to revive the blazingly fast BEM for quantum billiards dream
